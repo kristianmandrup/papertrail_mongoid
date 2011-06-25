@@ -1,0 +1,9 @@
+test/debug.log
+test/paper_trail_plugin.sqlite3.db
+test/dummy/log/*
+test/dummy/tmp/*
+coverage
+pkg/*
+*.gem
+.bundle
+Gemfile.lock

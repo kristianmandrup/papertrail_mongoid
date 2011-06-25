@@ -1,0 +1,1 @@
+These tests are kept as reference only. They work only for the Active Record specific paper_trail. 
